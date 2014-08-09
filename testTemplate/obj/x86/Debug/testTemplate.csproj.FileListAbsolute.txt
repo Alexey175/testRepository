@@ -12,3 +12,6 @@ d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTempl
 d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.Properties.Resources.resources
 d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.csproj.GenerateResource.Cache
 d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.csproj.ResolveComReference.cache
+C:\Users\Алексей\Desktop\Новая папка (2)\testTemplate\obj\x86\Debug\testTemplate.csproj.ResolveComReference.cache
+C:\Users\Алексей\Desktop\Новая папка (2)\testTemplate\obj\x86\Debug\testTemplate.exe
+C:\Users\Алексей\Desktop\Новая папка (2)\testTemplate\obj\x86\Debug\testTemplate.pdb
