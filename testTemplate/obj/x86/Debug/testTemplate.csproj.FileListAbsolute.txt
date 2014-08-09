@@ -1,0 +1,14 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\testTemplate\bin\Debug\testTemplate.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\testTemplate\bin\Debug\testTemplate.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\testTemplate\obj\x86\Debug\testTemplate.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\testTemplate\obj\x86\Debug\testTemplate.csproj.GenerateResource.Cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\testTemplate\obj\x86\Debug\testTemplate.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\testTemplate\obj\x86\Debug\testTemplate.pdb
+d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.exe
+d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.pdb
+d:\visual studio 2010\Projects\testTemplate\testTemplate\bin\Debug\testTemplate.exe
+d:\visual studio 2010\Projects\testTemplate\testTemplate\bin\Debug\testTemplate.pdb
+d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.FormCreatorWord.resources
+d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.Properties.Resources.resources
+d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.csproj.GenerateResource.Cache
+d:\visual studio 2010\Projects\testTemplate\testTemplate\obj\x86\Debug\testTemplate.csproj.ResolveComReference.cache
